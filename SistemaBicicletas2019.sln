@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "SistemaBicicletas2019\Vista.csproj", "{4D8BCAAC-874B-4730-B1DC-A3147345B29B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1AC15D1-8DCB-43BD-B7BB-47A1C11BAB7E}"
-	ProjectSection(SolutionItems) = preProject
-		SystemaBiciceltas.cd = SystemaBiciceltas.cd
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{3D39F9F4-DD69-49EA-89CD-D9243AD2C14E}"
 EndProject
